@@ -208,17 +208,3 @@ This is an open-source project and contributions are very welcome! Here are some
 4. Push to the branch (`git push origin feat/my-feature`)
 5. Open a Pull Request
 
-## Name Suggestion
-
-The recommended name for this project is **idotmatrix-dashboard**. It's clear, searchable, and immediately tells users what it does. Alternative names to consider:
-
-| Name | Why |
-|---|---|
-| **idotmatrix-dashboard** | Clear, descriptive, easy to find on GitHub |
-| **pixelboard** | Short and catchy, but less specific |
-| **dotmatrix-hub** | Emphasizes the hub/central aspect |
-| **blematrix** | Highlights BLE + matrix combo |
-
-## License
-
-This project is distributed under the [MIT](LICENSE) license. Use, modify, and distribute freely.
